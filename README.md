@@ -32,3 +32,15 @@ Business insights will be added after validating the SQL query results.
 
 ** How to Use
 Open the `.pbix` file using Power BI Desktop and interact with the slicers to explore the report.
+
+
+
+
+# Dashboard Preview
+# Executive Overview
+![Executive Overview](Executive%20Overview.png)
+
+# Products and Profit Analysis
+![Products and Profit Analysis](Products%20And%20Profit%20Analysis.png)
+
+
